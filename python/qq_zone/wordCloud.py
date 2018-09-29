@@ -37,3 +37,5 @@ plt.figure()
 plt.imshow(wordcloud)
 plt.axis("off")
 plt.show()
+#将词云保存成图片
+wordcloud.to_file('test.png')
