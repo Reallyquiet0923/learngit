@@ -1,15 +1,6 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 '''
-author:suzhenjing
-data:18-9-30
-功能:
-'''
-
-# !/usr/bin/python
-# -*- coding: UTF-8 -*-
-'''
-author:suzhenjing
 data:18-9-30
 功能:
 '''
